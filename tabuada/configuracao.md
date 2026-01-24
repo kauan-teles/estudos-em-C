@@ -1,0 +1,7 @@
+- Abra o Teminal (Linux)
+- dê o seguinte comando: &> nano ~/.bashrc
+    - escreva:
+        - alias tabuada='gcc <caminho do repositorio>/tabuada.c -o tabuada && ./tabuada'
+        - Dê CTRL + O para salvar e CTRL + X para sair;
+        - use o seguinte comando: $> source ~/.bashrc
+- Está pronto para uso
