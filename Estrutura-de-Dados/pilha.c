@@ -73,6 +73,7 @@ struct Stack* create_stack(){
 
 
 int main(){
+    
     struct Stack* s = create_stack();
     s->add(s, 10);
     s->print(s);
